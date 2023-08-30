@@ -30,7 +30,7 @@ const Field: React.FC<{ path: string; label: string }> = ({ path, label }) => {
 				{label}
 			</div>
 			<Editor
-				apiKey="h2fql42ncnvi0795pm53or0zodz9gn6jdo3ekspb37dfpprf"
+				apiKey="h2fql42ncnvi0795pm53or0zodz9gn6jdo3ekspb37dfpprf" // Replace with own string
 				init={{
 					skin: 'oxide-dark',
 					content_css: 'dark',
